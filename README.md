@@ -80,7 +80,7 @@ Enables easy configuration via XML files, allowing users to customise logging se
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
   <TwinCATVersion>TwinCAT3</TwinCATVersion>
-  <AmsNetId>192.168.1.1.1.1</AmsNetId>
+  <AmsNetId>10.0.2.15.1.1</AmsNetId>
   <Port>851</Port>
   <MaxLinesPerLogFile>1000</MaxLinesPerLogFile>
   <VariableConfig>
