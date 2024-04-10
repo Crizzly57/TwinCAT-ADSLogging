@@ -1,4 +1,4 @@
-![GitHub Release](https://img.shields.io/github/v/release/crizzly57/TwinCAT-ADSLogging)
+[![GitHub Release](https://img.shields.io/github/v/release/crizzly57/TwinCAT-ADSLogging)](https://github.com/Crizzly57/TwinCAT-ADSLogging/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Crizzly57/TwinCAT-ADSLogging/blob/main/LICENSE)
 
 # TwinCAT-ADSLogging
@@ -95,6 +95,15 @@ Enables easy configuration via XML files, allowing users to customise logging se
 
 <img alt="Console" src="https://github.com/Crizzly57/TwinCAT-ADSLogging/assets/81525848/8c102366-b516-40be-8998-cde373751839">
 
+### Contributing
+
+Contributions to TwinCAT-ADSLogging are welcome! If you encounter any bugs, have feature requests, or would like to contribute improvements, please feel free to follow these guidelines:
+
+1. **Reporting Bugs:** If you find a bug or unexpected behavior, please open an issue on the [GitHub issues page](https://github.com/crizzly57/TwinCAT-ADSLogging/issues) with detailed information about the problem, including steps to reproduce it.
+
+2. **Submitting Feature Requests:** If you have ideas for new features or enhancements, you can submit them by opening an issue on the [GitHub issues page](https://github.com/crizzly57/TwinCAT-ADSLogging/issues) and describing the proposed functionality.
+
+3. **Contributing Code:** If you'd like to contribute code improvements or new features, you can do so by forking the repository, making your changes, and submitting a pull request. Please ensure that your code follows the project's coding standards and include relevant tests if applicable.
 
 ### License
 This ADSLogging is licensed under the MIT License, granting users the freedom to use, modify, and distribute the software as per their needs.
